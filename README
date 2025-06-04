@@ -1,1 +1,40 @@
+# Machine Learning & Statistics Research Collection
+
+This repository contains a collection of my research papers in machine learning and statistics. The work is divided into two categories: **applied** and **theoretical**, reflecting the focus and nature of each project.
+
+## 🧪 Applied
+
+The `applied/` folder contains research that emphasizes **practical implementation** of statistical and machine learning techniques. These projects are driven by real-world datasets and include empirical modeling, data analysis, and predictive algorithms.
+
+Projects:
+- Predicting wine quality from physicochemical properties
+- Effect of legal drinking age on crime
+
+📂 [View Applied Projects](./applied/)
+
+---
+
+## 📐 Theoretical
+
+The `theoretical/` folder includes work focused on **mathematical foundations**, **probabilistic modeling**, or **methodological innovation**. These papers explore theory, assumptions, or derivations that underpin algorithms and statistical inference, often without a strong reliance on real-world datasets.
+
+Projects:
+- Causality of experimental vs non-experimental studies
+
+📂 [View Theoretical Work](./theoretical/)
+
+---
+
+## 📚 Format & Structure
+
+Each project folder typically includes:
+- `README.md` — A summary of the project
+- `paper.pdf` — The compiled final paper
+- `latex/` — Source code used to generate the paper
+- `code/` — Data analysis, modeling, or simulation scripts
+- `data/` — Dataset used or reference to data source
+
+---
+
+Feel free to explore, cite, or contribute. This repository serves as both a portfolio and a foundation for future research.
 
